@@ -53,5 +53,5 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 # 欢迎Pull Request！
 免责声明：仓库内所有文件仅供学习使用，测试学习备份仓库，侵删！
-
+--2022年2月10日12:31:23 可用
 ql repo https://github.com/xiaosuxiaosu/bk_faker2.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator"
